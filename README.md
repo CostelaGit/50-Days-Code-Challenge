@@ -39,7 +39,7 @@ Os desafios estão divididos em duas grandes seções:
 
 ## 🛠 Tecnologias Utilizadas
 
-- [Python 3.9.x](https://www.python.org/)
+- [Python 3.13.x](https://www.python.org/)
 - [Django 5.x](https://www.djangoproject.com/)
 - [Django REST Framework](https://www.django-rest-framework.org/)
 - [pytest](https://docs.pytest.org/) / [unittest](https://docs.python.org/3/library/unittest.html)
