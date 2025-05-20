@@ -10,7 +10,7 @@ Este arquivo contém a **lista completa dos 50 desafios**, organizados por níve
 
 ### 🔸 Lógica e Manipulação de Dados
 
-1. Validar um CPF (formato brasileiro) 🔲
+1. Validar um CPF (formato brasileiro) ✅
 2. Inverter uma string (sem usar slicing) 🔲
 3. Verificar se uma palavra é um palíndromo 🔲
 4. Contar palavras em uma string 🔲
